@@ -1,1 +1,2 @@
-// summary of site and how to utilize related code
+# GoldenMedia
+Lightweight_SocialMedia_For_My_Family
